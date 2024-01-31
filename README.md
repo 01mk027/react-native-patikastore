@@ -1,0 +1,2 @@
+### Introduction and purpose
+This project is developed as a 1<sup>st</sup> homework of React Native course. Aim of this project is to create list of items which are sold. All informations are retrieved from an internal json file.
